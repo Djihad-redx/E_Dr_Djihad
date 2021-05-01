@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274735516918",
+    "project_id": "beauty-magic-2a256",
+    "storage_bucket": "beauty-magic-2a256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274735516918:android:4f2bc2c52f65bad698f0d7",
+        "android_client_info": {
+          "package_name": "com.example.e_comerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274735516918-hbsbbv0batpgb7u09unvi32pjph3k6cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5FwRqm-qUUeQTKdZvrylB_oyKeHMrzGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274735516918-hbsbbv0batpgb7u09unvi32pjph3k6cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
